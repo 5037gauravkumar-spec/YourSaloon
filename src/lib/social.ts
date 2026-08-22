@@ -2,7 +2,7 @@
 // Leave a value as empty string ("") if you don't have that platform yet
 
 export const SOCIAL_LINKS = {
-  whatsapp: "https://wa.me/919211907631",
+  whatsapp: "https://wa.me/918130614878",
   instagram: "https://instagram.com/yoursaloon",
   youtube: "https://youtube.com/@yoursaloon",
   linkedin: "https://linkedin.com/company/yoursaloon",
